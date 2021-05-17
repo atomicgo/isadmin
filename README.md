@@ -1,25 +1,25 @@
-<h1 align="center">AtomicGo | template</h1>
+<h1 align="center">AtomicGo | isadmin</h1>
 
 <p align="center">
 
-<a href="https://github.com/atomicgo/template/releases">
-<img src="https://img.shields.io/github/v/release/atomicgo/template?style=flat-square" alt="Latest Release">
+<a href="https://github.com/atomicgo/isadmin/releases">
+<img src="https://img.shields.io/github/v/release/atomicgo/isadmin?style=flat-square" alt="Latest Release">
 </a>
 
-<a href="https://codecov.io/gh/atomicgo/template" target="_blank">
-<img src="https://img.shields.io/github/workflow/status/atomicgo/template/Go?label=tests&style=flat-square" alt="Tests">
+<a href="https://codecov.io/gh/atomicgo/isadmin" target="_blank">
+<img src="https://img.shields.io/github/workflow/status/atomicgo/isadmin/Go?label=tests&style=flat-square" alt="Tests">
 </a>
 
-<a href="https://codecov.io/gh/atomicgo/template" target="_blank">
-<img src="https://img.shields.io/codecov/c/gh/atomicgo/template?color=magenta&logo=codecov&style=flat-square" alt="Coverage">
+<a href="https://codecov.io/gh/atomicgo/isadmin" target="_blank">
+<img src="https://img.shields.io/codecov/c/gh/atomicgo/isadmin?color=magenta&logo=codecov&style=flat-square" alt="Coverage">
 </a>
 
-<a href="https://codecov.io/gh/atomicgo/template">
-<!-- unittestcount:start --><img src="https://img.shields.io/badge/Unit_Tests-1-magenta?style=flat-square" alt="Unit test count"><!-- unittestcount:end -->
+<a href="https://codecov.io/gh/atomicgo/isadmin">
+<!-- unittestcount:start --><img src="https://img.shields.io/badge/Unit_Tests-0-magenta?style=flat-square" alt="Unit test count"><!-- unittestcount:end -->
 </a>
 
-<a href="https://github.com/atomicgo/template/issues">
-<img src="https://img.shields.io/github/issues/atomicgo/template.svg?style=flat-square" alt="Issues">
+<a href="https://github.com/atomicgo/isadmin/issues">
+<img src="https://img.shields.io/github/issues/atomicgo/isadmin.svg?style=flat-square" alt="Issues">
 </a>
 
 <a href="https://opensource.org/licenses/MIT" target="_blank">
@@ -33,7 +33,7 @@
 <p align="center">
 <strong><a href="#install">Get The Module</a></strong>
 |
-<strong><a href="https://pkg.go.dev/github.com/atomicgo/template#section-documentation" target="_blank">Documentation</a></strong>
+<strong><a href="https://pkg.go.dev/github.com/atomicgo/isadmin#section-documentation" target="_blank">Documentation</a></strong>
 |
 <strong><a href="https://github.com/atomicgo/atomicgo/blob/main/CONTRIBUTING.md" target="_blank">Contributing</a></strong>
 |
@@ -59,22 +59,22 @@ Example description: https://golang.org/src/encoding/gob/doc.go
 
 ```console
 # Execute this command inside your project
-go get -u github.com/atomicgo/template
+go get -u github.com/atomicgo/isadmin
 ```
 
 ```go
 // Add this to your imports
-import "github.com/atomicgo/template"
+import "github.com/atomicgo/isadmin"
 ```
 
 ## Usage
 
-#### func  HelloWorld
+#### func  Check
 
 ```go
-func HelloWorld() string
+func Check() bool
 ```
-HelloWorld returns `Hello, World!`.
+Check if the program has administrative privileges.
 
 ---
 
