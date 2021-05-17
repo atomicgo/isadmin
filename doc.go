@@ -6,4 +6,4 @@ This description should clearly explain what the package does.
 
 Example description: https://golang.org/src/encoding/gob/doc.go
 */
-package template
+package isadmin
