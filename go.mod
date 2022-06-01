@@ -1,4 +1,4 @@
-module github.com/atomicgo/isadmin
+module atomicgo.dev/isadmin
 
 go 1.15
 
