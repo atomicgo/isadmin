@@ -46,23 +46,12 @@
   <img src="https://raw.githubusercontent.com/atomicgo/atomicgo/main/assets/header.png" alt="AtomicGo">
 </p>
 
-## Description
-
-Package template is used to generate new AtomicGo repositories.
-
-Write the description of the module here. You can use **markdown**! This
-description should clearly explain what the package does.
-
-Example description: https://golang.org/src/encoding/gob/doc.go
-
-## Install
-
 <p align="center">
 <table>
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -----------------------------------------------------------------------------------------------------
 <img width="2000" height="0">
 </td>
 </tbody>
@@ -74,17 +63,22 @@ Example description: https://golang.org/src/encoding/gob/doc.go
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   -----------------------------------------------------------------------------------------------------
 <img width="2000" height="0">
 </td>
 </tbody>
 </table>
 </p>
 
-```go
-// Add this to your imports
-import "atomicgo.dev/isadmin"
-```
+## Description
+
+Package template is used to generate new AtomicGo repositories.
+
+Write the description of the module here. You can use **markdown**! This
+description should clearly explain what the package does.
+
+Example description: https://golang.org/src/encoding/gob/doc.go
+
 
 ## Usage
 
