@@ -4,7 +4,7 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # A short description of the repository that will show up on GitHub
-  description: 🔹 Golang module to check if your program has administrative privileges.
+  description: 🧑‍💼 Golang module to check if your program has administrative privileges.
 
   # A comma-separated list of topics to set on the repository
   topics: atomicgo, go, golang, golang-library, admin, root
